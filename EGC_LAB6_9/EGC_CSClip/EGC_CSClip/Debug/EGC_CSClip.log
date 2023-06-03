@@ -1,0 +1,14 @@
+﻿  clip.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(10,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(12,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(15,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(18,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(21,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(42,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(92,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(100,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(104,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(108,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\EGC_CSClip\clip.cpp(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  EGC_CSClip.vcxproj -> C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_CSClip\Debug\EGC_CSClip.exe

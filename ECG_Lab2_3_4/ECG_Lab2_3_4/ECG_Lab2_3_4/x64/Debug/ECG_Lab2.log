@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2\ECG_Lab2\ECG_Lab2\main.cpp(257,8): warning C4102: 'std': unreferenced label
+  ECG_Lab2.vcxproj -> C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2\ECG_Lab2\x64\Debug\ECG_Lab2.exe

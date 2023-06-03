@@ -1,0 +1,15 @@
+﻿  clip.cpp
+  EGC_Cyrus-Beck.cpp
+  mat3.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_Cyrus-Beck\EGC_Cyrus-Beck\mat3.cpp(93,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_Cyrus-Beck\EGC_Cyrus-Beck\mat3.cpp(106,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mat4.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_Cyrus-Beck\EGC_Cyrus-Beck\mat4.cpp(38,47): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_Cyrus-Beck\EGC_Cyrus-Beck\mat4.cpp(40,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_Cyrus-Beck\EGC_Cyrus-Beck\mat4.cpp(98,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_Cyrus-Beck\EGC_Cyrus-Beck\mat4.cpp(111,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  vec2.cpp
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
+  EGC_Cyrus-Beck.vcxproj -> C:\Users\Andrei Eminovici\Desktop\ECG\EGC_LAB6_9\EGC_Cyrus-Beck\Debug\EGC_Cyrus-Beck.exe

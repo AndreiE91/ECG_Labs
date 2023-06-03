@@ -1,0 +1,22 @@
+﻿  clip.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(13,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(15,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(17,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(19,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(21,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(41,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(50,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(87,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(95,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(99,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(103,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\EGC_CSClip\clip.cpp(107,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  EGC_CSClip.cpp
+  mat3.cpp
+  mat4.cpp
+  transform.cpp
+  vec3.cpp
+  vec4.cpp
+  Generating Code...
+  EGC_CSClip.vcxproj -> C:\Users\Andrei Eminovici\Desktop\ECG\Ivan\EGC_Lab6\Debug\EGC_CSClip.exe

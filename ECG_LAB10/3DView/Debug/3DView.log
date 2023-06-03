@@ -1,0 +1,14 @@
+﻿  3DView.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\auxiliary.h(127,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\auxiliary.h(127,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\auxiliary.h(133,138): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\auxiliary.h(146,125): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\3DView.cpp(119,120): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\3DView.cpp(119,102): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\3DView.cpp(119,84): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\3DView.cpp(119,56): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\3DView.cpp(200,145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\3DView.cpp(200,123): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\3DView.cpp(200,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\3DView\3DView.cpp(200,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3DView.vcxproj -> C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB10\Debug\3DView.exe

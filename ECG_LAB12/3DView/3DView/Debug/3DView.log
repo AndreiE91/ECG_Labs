@@ -1,0 +1,9 @@
+﻿  3DView.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB12\3DView\3DView\3DView.cpp(164,59): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB12\3DView\3DView\3DView.cpp(164,48): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB12\3DView\3DView\3DView.cpp(164,37): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB12\3DView\3DView\3DView.cpp(178,145): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB12\3DView\3DView\3DView.cpp(178,123): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB12\3DView\3DView\3DView.cpp(178,101): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB12\3DView\3DView\3DView.cpp(178,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3DView.vcxproj -> C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB12\3DView\Debug\3DView.exe

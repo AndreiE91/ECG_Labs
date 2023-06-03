@@ -1,0 +1,16 @@
+﻿  EGC_Lab5.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(45,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(45,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(45,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(45,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(49,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(49,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(49,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(49,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(145,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(146,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(152,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(152,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(161,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\EGC_Lab5\EGC_Lab5.cpp(161,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  EGC_Lab5.vcxproj -> C:\Users\Andrei Eminovici\Desktop\ECG\ECG_LAB5\Debug\EGC_Lab5.exe

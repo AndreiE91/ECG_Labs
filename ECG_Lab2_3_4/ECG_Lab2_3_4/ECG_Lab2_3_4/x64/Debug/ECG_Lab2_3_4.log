@@ -1,0 +1,24 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ECG_Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\main.cpp(257,8): warning C4102: 'std': unreferenced label
+  mat3.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\mat3.cpp(93,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\mat3.cpp(106,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mat4.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\mat4.cpp(38,47): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\mat4.cpp(40,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\mat4.cpp(98,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\mat4.cpp(111,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  testMatrix.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\testMatrix.cpp(185,195): warning C4305: 'initializing': truncation from 'double' to 'float'
+  testTransform.cpp
+  transform.cpp
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\transform.cpp(42,21): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\transform.cpp(94,21): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\transform.cpp(106,21): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\transform.cpp(118,21): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  vec4.cpp
+  vec3.cpp
+  vec2.cpp
+  Generating Code...
+  ECG_Lab2_3_4.vcxproj -> C:\Users\Andrei Eminovici\Desktop\ECG\ECG_Lab2_3_4\ECG_Lab2_3_4\ECG_Lab2_3_4\x64\Debug\ECG_Lab2_3_4.exe
